@@ -1,8 +1,8 @@
-name: Alpha
-description: Alphs template for Jekyll
+name: Tonight
+description: 今晚的技术博客
 baseurl: '/Alpha-Jekyll-Theme'
 
-url: "http://localhost:4000"
+url: "https://blog.ok5168.com/"
 
 paginate: 10
 
