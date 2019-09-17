@@ -6,3 +6,5 @@ url: "https://blog.ok5168.com/"
 
 paginate: 10
 
+
+theme: jekyll-theme-architect
